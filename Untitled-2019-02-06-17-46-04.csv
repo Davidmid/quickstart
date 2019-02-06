@@ -1,0 +1,7 @@
+"id","amount","available_on","created","currency","description","fee","net","status","type","source_id","automatic_transfer_id","reporting_category"
+"txn_1C3wC0A9bQZZFfLx6OOulBqH","-12499","2018-03-10 00:00:00.000","2018-03-10 01:08:12.000","usd","REFUND FOR CHARGE","-517","-11982","available","refund","re_1C3wC0A9bQZZFfLx8clZ8qe9",,"refund"
+"txn_1C3wBzA9bQZZFfLx7G9wg4Nk","-6038","2018-03-10 00:00:00.000","2018-03-10 01:08:11.000","usd","REFUND FOR CHARGE","-265","-5773","available","refund","re_1C3wBzA9bQZZFfLxxsuL4tN7",,"refund"
+"txn_1C3wC0A9bQZZFfLxK5tGslXh","-880","2018-03-10 00:00:00.000","2018-03-10 01:08:11.000","usd","REFUND FOR CHARGE","-64","-816","available","refund","re_1C3wBzA9bQZZFfLxnfljjCdW",,"refund"
+"txn_1C1NehA9bQZZFfLxc5wVS3PA","6038","2018-03-09 00:00:00.000","2018-03-02 23:51:13.000","usd",,"265","5773","available","charge","ch_1C1NefA9bQZZFfLxjGvzxjC0",,"charge"
+"txn_1C1NbaA9bQZZFfLxrDD7hXel","880","2018-03-09 00:00:00.000","2018-03-02 23:48:00.000","usd",,"64","816","available","charge","ch_1C1NbYA9bQZZFfLxKbmLtc4o",,"charge"
+"txn_1C1MiPA9bQZZFfLxJenGZiMz","12499","2018-03-09 00:00:00.000","2018-03-02 22:50:59.000","usd",,"517","11982","available","charge","ch_1C1MiNA9bQZZFfLxer01jXxk",,"charge"
